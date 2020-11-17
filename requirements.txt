@@ -1,0 +1,6 @@
+Flask
+Flask-RESTful
+Flask-JWT
+Flask-SQLAlchemy
+mysql-connector-python
+uwsgi
